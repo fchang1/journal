@@ -1,1 +1,8 @@
-faith
+AI Usage Journal
+Faith Chang
+Section 0202
+
+Week 1
+This week I used AI to help me remember concepts and what certain variables are. I also use AI to explain how to use a specific statements such as if and else statements. Here is my chat link: https://chatgpt.com/share/68c742e0-68e0-800f-a13a-3041148cd04b.
+I didn't use AI to complete the questions or for any debugging. As shown in the link a question that I asked ChatGPT was to explain boolean expressions. 
+Currently I am using ChatGPT but a TA in our section recommended Claude which I something that I recently tried using. I'm still getting used to it, I like the format, but I need to use it more to be able to compare it better to ChatGPT. I remember from the professors examples, he was able to get better results from Claude than Gemini, but it was due to information that Claude had the prompt he gave it.
