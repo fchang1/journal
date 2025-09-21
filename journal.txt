@@ -6,3 +6,12 @@ Week 1
 This week I used AI to help me remember concepts and what certain variables are. I also use AI to explain how to use a specific statements such as if and else statements. Here is my chat link: https://chatgpt.com/share/68c742e0-68e0-800f-a13a-3041148cd04b.
 I didn't use AI to complete the questions or for any debugging. As shown in the link a question that I asked ChatGPT was to explain boolean expressions. 
 Currently I am using ChatGPT but a TA in our section recommended Claude which I something that I recently tried using. I'm still getting used to it, I like the format, but I need to use it more to be able to compare it better to ChatGPT. I remember from the professors examples, he was able to get better results from Claude than Gemini, but it was due to information that Claude had the prompt he gave it.
+
+Week 2
+I used AI to help me understand more concepts in Python. There were concpets in the assingment that I needed a refresher on. These are my ChatGPT conversation:    https://chatgpt.com/share/68d078e6-aa48-800f-a27d-b01f76e2cb73
+
+For example, I needed to understand the concept of sorted in Python. 
+In the beginning, I didn' know what the code for making something in alphabetical order so I had to ask ChatGPT: "What is the code for making something alphabetical."
+I think ChatGPT can be very helpful when it comes to Python as it can not only give a explination of the code but also show you example codes.
+I also used it to remind myself how to remove something from a list, how to use i in range, and how to slice a list.
+
